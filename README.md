@@ -4,10 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=6000&pause=1800&color=00C896&center=true&vCenter=true&width=800&lines=Data+Science+Student;Machine+Learning+Enthusiast;Backend+Developer;Full+Stack+Developer;Building+Real-World+Projects" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=bhavengupta&color=00C896&style=flat-square" />
-</p>
-
 ---
 
 ## 🚀 About Me
