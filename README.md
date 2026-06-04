@@ -1,3 +1,4 @@
+<style>
 .animated-role {
     font-size: 2rem;
     font-weight: 600;
@@ -16,6 +17,8 @@
         opacity: 0;
     }
 }
+
+</style>
 
 <h1 align="center">Hi 👋, I'm Bhaven Gupta</h1>
 
