@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=24f3000936&show_icons=true&theme=tokyonight" height="180"/> 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=24f3000936&show_icons=true&theme=tokyonight" height="180"/>  -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavengupta&theme=tokyonight" height="180"/>
 
