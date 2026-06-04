@@ -1,33 +1,8 @@
-<head>
-<style>
-.animated-role {
-    font-size: 2rem;
-    font-weight: 600;
-    color: #00C896;
-    font-family: 'Poppins', sans-serif;
-}
-
-.cursor {
-    display: inline-block;
-    animation: blink 0.8s infinite;
-    color: #00C896;
-}
-
-@keyframes blink {
-    50% {
-        opacity: 0;
-    }
-}
-
-</style>
-</head>
-
 <h1 align="center">Hi 👋, I'm Bhaven Gupta</h1>
 
-<h2 class="animated-role">
-    <span id="typing-text"></span>
-    <span class="cursor">|</span>
-</h2>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=6000&pause=1800&color=00C896&center=true&vCenter=true&width=800&lines=Data+Science+Student;Machine+Learning+Enthusiast;Backend+Developer;Full+Stack+Developer;Building+Real-World+Projects" />
+</p>
 
 ---
 
@@ -97,47 +72,4 @@
 
 ---
 
-<script>
 
-const roles = [
-    "Data Science Student",
-    "Machine Learning Enthusiast",
-    "Backend Developer",
-    "Full Stack Developer",
-    "Building Real-World Projects"
-];
-
-const typingText = document.getElementById("typing-text");
-
-let roleIndex = 0;
-let charIndex = 0;
-let isDeleting = false;
-
-function typeEffect() {
-    const currentRole = roles[roleIndex];
-
-    if (!isDeleting) {
-        typingText.textContent = currentRole.substring(0, charIndex + 1);
-        charIndex++;
-
-        if (charIndex === currentRole.length) {
-            isDeleting = true;
-            setTimeout(typeEffect, 1500);
-            return;
-        }
-    } else {
-        typingText.textContent = currentRole.substring(0, charIndex - 1);
-        charIndex--;
-
-        if (charIndex === 0) {
-            isDeleting = false;
-            roleIndex = (roleIndex + 1) % roles.length;
-        }
-    }
-
-    setTimeout(typeEffect, isDeleting ? 50 : 100);
-}
-
-typeEffect();
-
-</script>
