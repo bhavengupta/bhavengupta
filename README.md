@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhaven Gupta</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=6000&pause=1800&color=00C896&center=true&vCenter=true&width=1000&lines=Data+Science+Student;Machine+Learning+Enthusiast;Backend+Developer;Full+Stack+Developer;Building+Real-World+Projects&cursor=true&cursorColor=00C896" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=5000&pause=1500&color=00C896&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Bhaven+Gupta+%F0%9F%91%8B;Data+Science+Student;Machine+Learning+Enthusiast;Backend+%26+Full+Stack+Developer;Turning+Data+Into+Insights;Building+Real-World+Solutions&cursor=true&cursorColor=00C896" />
 </p>
 
 ---
