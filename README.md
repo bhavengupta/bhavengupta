@@ -1,27 +1,19 @@
 <h1 align="center">Hi 👋, I'm Bhaven Gupta</h1>
 
-
-
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=6000&pause=1800&color=00C896&center=true&vCenter=true&width=800&lines=Data+Science+Student;Machine+Learning+Enthusiast;Backend+Developer;Full+Stack+Developer;Building+Real-World+Projects" />
 
 </p>
 
-
-
 ---
-
-
 
 ## 🚀 About Me
 
-
-
-🎓 Data Science Student passionate about AI and Software Development
-💻 Interested in Machine Learning, Backend Development and Analytics
-📊 Working on real-world Data Science and Web Development projects
-🌱 Currently learning Advanced ML, AI Systems and Full Stack Development
+🎓 Data Science Student passionate about AI and Software Development <br>
+💻 Interested in Machine Learning, Backend Development and Analytics <br>
+📊 Working on real-world Data Science and Web Development projects <br>
+🌱 Currently learning Advanced ML, AI Systems and Full Stack Development <br>
 ⚡ Focused on building impactful and professional applications
 
 
