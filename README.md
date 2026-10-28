@@ -51,43 +51,9 @@ End-to-end regression pipeline predicting heavy equipment auction prices from la
 
 - **Backend & Distributed Systems**: RESTful API design, relational schema modeling and ORM queries (`SQLAlchemy`), role-based authentication and authorization, response caching (`Redis`), and asynchronous task queues (`Celery`).
 - **Machine Learning & Data Engineering**: Time-series regime detection, tabular feature engineering, leak-free cross-validation, gradient-boosted decision trees (`XGBoost`, `Scikit-Learn`), and LLM evaluation workflows.
-
-**Languages**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="38" height="38" alt="SQL" title="SQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="38" height="38" alt="Java" title="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="38" height="38" alt="Bash" title="Bash" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="38" height="38" alt="HTML5" title="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="38" height="38" alt="CSS3" title="CSS3" />
-</p>
-
-**Backend, Web & Data Frameworks**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="38" height="38" alt="Flask" title="Flask" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="38" height="38" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="38" height="38" alt="SQLAlchemy" title="SQLAlchemy" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/celery/37814A" width="38" height="38" alt="Celery" title="Celery" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="38" height="38" alt="Redis" title="Redis" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="38" height="38" alt="Bootstrap" title="Bootstrap" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="38" height="38" alt="Pandas" title="Pandas" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="38" height="38" alt="NumPy" title="NumPy" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="38" height="38" alt="Scikit-Learn" title="Scikit-Learn" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="38" height="38" alt="Matplotlib" title="Matplotlib" />
-</p>
-
-**Databases & Developer Tooling**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="38" height="38" alt="SQLite" title="SQLite" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="38" height="38" alt="Git" title="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="38" height="38" alt="GitHub" title="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="38" height="38" alt="Jupyter" title="Jupyter" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="38" height="38" alt="VS Code" title="VS Code" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux" />
-</p>
+- **Languages**: `Python` · `SQL` · `Java` · `JavaScript` · `Bash` · `HTML5` · `CSS3`
+- **Frameworks & Libraries**: `Flask` · `Vue.js` · `SQLAlchemy` · `Celery` · `Pandas` · `NumPy` · `Scikit-Learn` · `XGBoost` · `Matplotlib` · `Jinja2` · `Bootstrap`
+- **Databases & Tooling**: `PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `Git` · `GitHub` · `Jupyter`
 
 ## Current Focus
 
