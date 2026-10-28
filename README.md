@@ -12,7 +12,6 @@ BS in Data Science & Applications at **IIT Madras** *(2024 – 2028)*
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="22" height="22" align="center" alt="LinkedIn" /> <b>LinkedIn</b>
   </a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="mailto:contactbhavengupta@gmail.com" title="Gmail" style="text-decoration:none;">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="22" height="22" align="center" alt="Gmail" /> <b>contactbhavengupta@gmail.com</b>
   </a>
