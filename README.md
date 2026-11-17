@@ -8,7 +8,7 @@
 <a href="https://www.google.com/search?q=https://linkedin.com/in/bhavengupta">
 <img src="https://img.shields.io/badge/LinkedIn-Bhaven_Gupta-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:contactbhavengupta@gmal.com">
+<a href="mailto:contactbhavengupta@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 </a>
 </p>
